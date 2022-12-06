@@ -25,7 +25,7 @@
 	Global Styles
 ========================================================================== */
 a {
-	color: #E04343;
+	color: #287935;
 	-webkit-transition:all 0.5s;
 	-moz-transition:all 0.5s;
 	-o-transition:all 0.5s;
@@ -152,7 +152,7 @@ dfn {
 	font-style:italic;
 }
 mark {
-	background:#ff0;
+	background:rgb(56, 173, 241);
 	color:#000;
 }
 p,pre {
